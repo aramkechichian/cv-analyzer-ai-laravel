@@ -100,7 +100,7 @@ If you discover any security-related issues, please create a private GitHub issu
 
 **Aram Kechichian**  
 [LinkedIn](https://www.linkedin.com/in/aramkechichian/)  
-[GitHub](https://github.com/yourusername)
+[GitHub](https://github.com/aramkechichian)
 
 ## 📄 License
 
